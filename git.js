@@ -7,9 +7,21 @@
 // remote: github/gitlab/bitbucket .... websites to host your repo online
 
 // check version: git --version
+// set identity:
+// git config --global user.email "gitemail.com"
+// git config --global user.name "Your Name"
+
 
 // to create a new git repo:
 // git init
 // MAC: brew install git
 
-//git branch
+// git branch
+
+// to add the files to the staging area for tracking
+// git add .
+
+// to save the changes
+// git commit -m "build a new feature, added padding"
+
+//
