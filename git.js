@@ -24,4 +24,6 @@
 // to save the changes
 // git commit -m "build a new feature, added padding"
 
-//
+// to create and switch to a branch
+// git checkout  -b feature/add-new-line
+
