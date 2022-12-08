@@ -27,3 +27,10 @@
 // to create and switch to a branch
 // git checkout  -b feature/add-new-line
 
+// git branch -> to list your branches
+
+// git checkout branchName --> checkout to the destination branch
+
+// git checkout -b branchName --> create a new branch
+
+
